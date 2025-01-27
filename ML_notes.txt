@@ -1,0 +1,36 @@
+ML_notes
+
+NumPy, Pandas, Matplotlib/Seaborn, pyTorch
+##
+
+Linear algebra operations (dot product, matrix multiplication).
+NumPy Aggregations (sum, mean, standard deviation, etc.).
+Random module (used for initializing random weights).
+Array slicing and indexing (managing data subsets).
+
+##
+
+Array indexing and slicing (advanced indexing).
+Fancy Indexing (boolean or integer-based).
+Views vs Copies of arrays.
+NumPy Aggregations (sum, mean, std, etc.).
+Linear algebra operations (dot product, matrix multiplication, etc.).
+NumPy's Random module (random sampling).
+Structured Arrays (heterogeneous data).
+Performance comparison (NumPy vs Python lists).
+
+##
+___
+
+3. Python Libraries for Data Handling
+NumPy: Learn the basics of NumPy arrays, operations, and linear algebra functions.
+pandas: Get familiar with pandas DataFrames for data manipulation and analysis.
+
+4. Working with Files and Data
+File I/O: Learn to read and write to files in different formats (text, CSV, JSON).
+Regular Expressions: Master regular expressions for pattern matching and text processing.
+
+5. Advanced Python Features
+Decorators: Understand how decorators work and how to use them.
+Generators: Learn about yield and how generators help in handling large data efficiently.
+Context Managers: Learn about with statements for managing resources.
