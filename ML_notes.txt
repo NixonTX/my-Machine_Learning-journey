@@ -1,6 +1,15 @@
 ML_notes
 
-NumPy, Pandas, Matplotlib/Seaborn, pyTorch
+*Core Data Handling
+    NumPy
+    Pandas (for data manipulation).
+*Data visualization
+    Matplotlib/Seaborn (for visualization).
+*ML Algorithms
+    Scikit-learn (for ML algorithms).
+*DL
+    TensorFlow/PyTorch
+    Keras
 ##
 
 Linear algebra operations (dot product, matrix multiplication).
