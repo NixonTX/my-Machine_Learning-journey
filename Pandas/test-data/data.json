@@ -1,0 +1,7 @@
+{
+    "students": ["Alice", "Bob", "Charlie"],
+    "ages": [20, 22, 21],
+    "grades": ["A", "B", "A"],
+    "cities": ["New York", "Los Angeles", "Chicago"]
+  }
+  

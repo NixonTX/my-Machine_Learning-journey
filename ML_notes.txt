@@ -15,10 +15,6 @@ ML_notes
 ##
 ___
 
-3. Python Libraries for Data Handling
-NumPy: Learn the basics of NumPy arrays, operations, and linear algebra functions.
-pandas: Get familiar with pandas DataFrames for data manipulation and analysis.
-
 4. Working with Files and Data
 File I/O: Learn to read and write to files in different formats (text, CSV, JSON).
 Regular Expressions: Master regular expressions for pattern matching and text processing.

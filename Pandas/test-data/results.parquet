@@ -1,0 +1,511 @@
+year,type,discipline,event,as,athlete_id,noc,team,place,tied,medal
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Jean-François Blanchy,1,FRA,,17.0,True,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Jean-François Blanchy,1,FRA,Jean Montariol,,False,
+1920.0,Summer,Tennis,"Singles, Men (Olympic)",Jean-François Blanchy,1,FRA,,32.0,True,
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Jean-François Blanchy,1,FRA,Jeanne Vaussard,8.0,True,
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Jean-François Blanchy,1,FRA,Jacques Brugnon,4.0,False,
+1996.0,Summer,Tennis,"Singles, Men (Olympic)",Arnaud Boetsch,2,FRA,,17.0,True,
+1996.0,Summer,Tennis,"Doubles, Men (Olympic)",Arnaud Boetsch,2,FRA,Guillaume Raoux,17.0,True,
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Jean Borotra,3,FRA,,4.0,False,
+1924.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Jean Borotra,3,FRA,Marguerite Billout,15.0,True,
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Jean Borotra,3,FRA,René Lacoste,3.0,False,Bronze
+1920.0,Summer,Tennis,"Singles, Men (Olympic)",Jacques Brugnon,4,FRA,,9.0,True,
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Jacques Brugnon,4,FRA,Jean-François Blanchy,4.0,False,
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Jacques Brugnon,4,FRA,Henri Cochet,2.0,False,Silver
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Albert Canet,5,FRA,,17.0,True,
+1912.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Albert Canet,5,FRA,Marguerite Broquedis,3.0,False,Bronze
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Albert Canet,5,FRA,Édouard Mény de Marangue,3.0,False,Bronze
+1992.0,Summer,Table Tennis,"Singles, Men (Olympic)",Nicolas Chatelain,6,FRA,,33.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Nicolas Chatelain,6,FRA,Patrick Chila,17.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Patrick Chila,7,FRA,Nicolas Chatelain,17.0,True,
+1996.0,Summer,Table Tennis,"Singles, Men (Olympic)",Patrick Chila,7,FRA,,9.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Patrick Chila,7,FRA,Christophe Legoût,9.0,True,
+2000.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Patrick Chila,7,FRA,Jean-Philippe Gatien,3.0,False,Bronze
+2004.0,Summer,Table Tennis,"Singles, Men (Olympic)",Patrick Chila,7,FRA,,17.0,True,
+2008.0,Summer,Table Tennis,"Singles, Men (Olympic)",Patrick Chila,7,FRA,,49.0,True,
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Henri Cochet,8,FRA,,2.0,False,Silver
+1924.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Henri Cochet,8,FRA,Suzanne Lenglen,,False,
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Henri Cochet,8,FRA,Jacques Brugnon,2.0,False,Silver
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Marcel Cousin,9,FRA,,17.0,True,
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Guy de la Chapelle,10,FRA,André Prévost,3.0,True,Bronze
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Guy de la Chapelle,10,FRA,,5.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Guy de la Chapelle,10,FRA,Gonzalo de Candamo,3.0,True,
+1900.0,Summer,Fencing,"Épée, Individual, Men (Olympic)","Élie, Comte de Lastours",11,FRA,,1.0,False,
+1900.0,Summer,Fencing,Tennis,"Élie, Comte de Lastours",11,FRA,FRA,,True,
+1900.0,Summer,Fencing,"Doubles, Men (Olympic)","Élie, Comte de Lastours",11,FRA,"Guy, Baron Lejeune",5.0,True,
+1900.0,Summer,Fencing,"Doubles, Handicap, Mixed (Olympic (non-medal))","Élie, Comte de Lastours",11,FRA,Charlotte Cooper,5.0,True,
+1900.0,Summer,Fencing,"Singles, Handicap, Men (Olympic (non-medal))","Élie, Comte de Lastours",11,FRA,,17.0,True,
+1900.0,Summer,Fencing,"Doubles, Handicap, Men (Olympic (non-medal))","Élie, Comte de Lastours",11,FRA,"Guy, Baron Lejeune",5.0,True,
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Max Decugis,12,FRA,,,False,
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Max Decugis,12,FRA,Spalding de Garmendia,2.0,False,Silver
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Max Decugis,12,FRA,Spalding de Garmendia,1.0,False,
+,,Tennis,"Singles, Men (Intercalated)",Max Decugis,12,FRA,,1.0,False,Gold
+,,Tennis,"Doubles, Mixed (Intercalated)",Max Decugis,12,FRA,Marie Decugis,1.0,False,Gold
+,,Tennis,"Doubles, Men (Intercalated)",Max Decugis,12,FRA,Maurice Germot,1.0,False,Gold
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Max Decugis,12,FRA,,,False,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Max Decugis,12,FRA,Maurice Germot,,False,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Mixed (Olympic)",Max Decugis,12,FRA,Marie Decugis,,False,
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Max Decugis,12,FRA,,,False,
+1920.0,Summer,Tennis,"Singles, Men (Olympic)",Max Decugis,12,FRA,,17.0,True,
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Max Decugis,12,FRA,Suzanne Lenglen,1.0,False,Gold
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Max Decugis,12,FRA,Pierre Albarran,3.0,False,Bronze
+1896.0,Summer,Tennis,"Singles, Men (Olympic)",J. Defert,13,FRA,,8.0,True,
+1896.0,Summer,Tennis,"Doubles, Men (Olympic)",J. Defert,13,FRA,André Vacherot,,False,
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Étienne Durand,14,FRA,,8.0,True,
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Étienne Durand,14,FRA,Adrien Fauchier-Magnan,5.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Étienne Durand,14,FRA,,9.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Étienne Durand,14,FRA,Adrien Fauchier-Magnan,3.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Damien Éloi,15,FRA,Jean-Philippe Gatien,5.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Damien Éloi,15,FRA,Jean-Philippe Gatien,5.0,True,
+2000.0,Summer,Table Tennis,"Singles, Men (Olympic)",Damien Éloi,15,FRA,,9.0,True,
+2000.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Damien Éloi,15,FRA,Christophe Legoût,5.0,True,
+2008.0,Summer,Table Tennis,"Singles, Men (Olympic)",Damien Éloi,15,FRA,,33.0,True,
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Adrien Fauchier-Magnan,16,FRA,Étienne Durand,5.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Adrien Fauchier-Magnan,16,FRA,Étienne Durand,3.0,True,
+1984.0,Summer,Tennis,"Singles, Men (Olympic (non-medal))",Guy Forget,17,FRA,,5.0,True,
+1988.0,Summer,Tennis,"Singles, Men (Olympic)",Guy Forget,17,FRA,,9.0,True,
+1988.0,Summer,Tennis,"Doubles, Men (Olympic)",Guy Forget,17,FRA,Henri Leconte,5.0,True,
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Guy Forget,17,FRA,,17.0,True,
+1992.0,Summer,Tennis,"Doubles, Men (Olympic)",Guy Forget,17,FRA,Henri Leconte,9.0,True,
+1988.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jean-Philippe Gatien,18,FRA,,33.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jean-Philippe Gatien,18,FRA,Patrick Birocheau,17.0,True,
+1992.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jean-Philippe Gatien,18,FRA,,2.0,False,Silver
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jean-Philippe Gatien,18,FRA,Damien Éloi,5.0,True,
+1996.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jean-Philippe Gatien,18,FRA,,17.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jean-Philippe Gatien,18,FRA,Damien Éloi,5.0,True,
+2000.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jean-Philippe Gatien,18,FRA,,17.0,True,
+2000.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jean-Philippe Gatien,18,FRA,Patrick Chila,3.0,False,Bronze
+1900.0,Summer,Tennis,"Doubles, Handicap, Mixed (Olympic (non-medal))",Maurice Germot,19,FRA,Katie Gilou,2.0,False,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Maurice Germot,19,FRA,,9.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Maurice Germot,19,FRA,Finger,2.0,False,
+,,Tennis,"Singles, Men (Intercalated)",Maurice Germot,19,FRA,,2.0,False,Silver
+,,Tennis,"Doubles, Men (Intercalated)",Maurice Germot,19,FRA,Max Decugis,1.0,False,Gold
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Maurice Germot,19,FRA,,5.0,True,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Maurice Germot,19,FRA,Max Decugis,,False,
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Maurice Germot,19,FRA,,9.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Maurice Germot,19,FRA,André Gobert,1.0,False,Gold
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",André Gobert,20,FRA,,1.0,False,Gold
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",André Gobert,20,FRA,Maurice Germot,1.0,False,Gold
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Pierre Hirsch,21,FRA,Élisabeth d'Ayen,8.0,True,
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",René Lacoste,22,FRA,,5.0,True,
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",René Lacoste,22,FRA,Jean Borotra,3.0,False,Bronze
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Daniel Lawton,23,FRA,,,False,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Daniel Lawton,23,FRA,Jean-Pierre Samazeuilh,,False,
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Daniel Lawton,23,FRA,Jean-Pierre Samazeuilh,9.0,True,
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Paul Lebreton,24,FRA,,8.0,True,
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Paul Lebreton,24,FRA,Paul Lecaron,5.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Paul Lebreton,24,FRA,,9.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Paul Lebreton,24,FRA,Paul Lecaron,3.0,True,
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Paul Lecaron,25,FRA,,5.0,True,
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Paul Lecaron,25,FRA,Paul Lebreton,5.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Paul Lecaron,25,FRA,,5.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Paul Lecaron,25,FRA,Paul Lebreton,3.0,True,
+1988.0,Summer,Tennis,"Singles, Men (Olympic)",Henri Leconte,26,FRA,,17.0,True,
+1988.0,Summer,Tennis,"Doubles, Men (Olympic)",Henri Leconte,26,FRA,Guy Forget,5.0,True,
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Henri Leconte,26,FRA,,17.0,True,
+1992.0,Summer,Tennis,"Doubles, Men (Olympic)",Henri Leconte,26,FRA,Guy Forget,9.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Christophe Legoût,27,FRA,Patrick Chila,9.0,True,
+2000.0,Summer,Table Tennis,"Singles, Men (Olympic)",Christophe Legoût,27,FRA,,9.0,True,
+2000.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Christophe Legoût,27,FRA,Damien Éloi,5.0,True,
+2008.0,Summer,Table Tennis,"Singles, Men (Olympic)",Christophe Legoût,27,FRA,,49.0,True,
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)","Guy, Baron Lejeune",28,FRA,"Élie, Comte de Lastours",5.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))","Guy, Baron Lejeune",28,FRA,,9.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))","Guy, Baron Lejeune",28,FRA,"Élie, Comte de Lastours",5.0,True,
+1900.0,Summer,Tennis,Polo,"Guy, Baron Lejeune",28,FRA,FRA,,True,
+1900.0,Summer,Tennis,"Polo, Men (Olympic (non-medal))","Guy, Baron Lejeune",28,FRA,Blue,2.0,False,
+1900.0,Summer,Tennis,"Polo, Men (Olympic (non-medal))","Guy, Baron Lejeune",28,FRA,C,3.0,True,
+1900.0,Summer,Tennis,"Polo, Men (Olympic (non-medal))","Guy, Baron Lejeune",28,FRA,B,2.0,False,
+1900.0,Summer,Tennis,"Polo, Men (Olympic (non-medal))","Guy, Baron Lejeune",28,FRA,B,3.0,False,
+1900.0,Summer,Tennis,"Polo, Men (Olympic (non-medal))","Guy, Baron Lejeune",28,FRA,A,3.0,True,
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Albert Lippmann,29,FRA,,8.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Albert Lippmann,29,FRA,,,False,
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Édouard Mény de Marangue,30,FRA,,31.0,True,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Édouard Mény de Marangue,30,FRA,Albert Canet,3.0,False,Bronze
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",André Prévost,31,FRA,,8.0,True,
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",André Prévost,31,FRA,Guy de la Chapelle,3.0,True,Bronze
+1900.0,Summer,Tennis,"Doubles, Handicap, Mixed (Olympic (non-medal))",André Prévost,31,FRA,Yvonne Prévost,1.0,False,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",André Prévost,31,FRA,,1.0,False,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",André Prévost,31,FRA,Reggie Doherty,5.0,True,
+1996.0,Summer,Tennis,"Singles, Men (Olympic)",Guillaume Raoux,32,FRA,,33.0,True,
+1996.0,Summer,Tennis,"Doubles, Men (Olympic)",Guillaume Raoux,32,FRA,Arnaud Boetsch,17.0,True,
+1992.0,Summer,Badminton,"Singles, Men (Olympic)",Stéphane Renault,33,FRA,,33.0,True,
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Jean-Pierre Samazeuilh,34,FRA,,,False,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Jean-Pierre Samazeuilh,34,FRA,Daniel Lawton,,False,
+1920.0,Summer,Tennis,"Singles, Men (Olympic)",Jean-Pierre Samazeuilh,34,FRA,,17.0,True,
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Jean-Pierre Samazeuilh,34,FRA,Daniel Lawton,9.0,True,
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Fabrice Santoro,35,FRA,,5.0,True,
+2000.0,Summer,Tennis,"Singles, Men (Olympic)",Fabrice Santoro,35,FRA,,9.0,True,
+2004.0,Summer,Tennis,"Singles, Men (Olympic)",Fabrice Santoro,35,FRA,,17.0,True,
+2004.0,Summer,Tennis,"Doubles, Men (Olympic)",Fabrice Santoro,35,FRA,Michaël Llodra,5.0,True,
+1996.0,Summer,Badminton,"Singles, Men (Olympic)",Étienne Thobois,36,FRA,,33.0,True,
+1900.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Pierre Verdé-Delisle,37,FRA,Antoinette Gilou,5.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Mixed (Olympic (non-medal))",Pierre Verdé-Delisle,37,FRA,Antoinette Gilou,5.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Pierre Verdé-Delisle,37,FRA,,9.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Pierre Verdé-Delisle,37,FRA,Archibald Warden,2.0,False,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Mixed (Olympic)",Helen Aitchison,38,GBR,Roper Barrett,2.0,False,Silver
+1912.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Helen Aitchison,38,GBR,,5.0,True,
+1920.0,Summer,Tennis,"Singles, Women (Olympic)",Geraldine Beamish,39,GBR,,9.0,True,
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Geraldine Beamish,39,GBR,Alfred Beamish,8.0,True,
+1920.0,Summer,Tennis,"Doubles, Women (Olympic)",Geraldine Beamish,39,GBR,Dorothy Holman,2.0,False,Silver
+1908.0,Summer,Tennis,"Singles, Women (Olympic)",Dora Boothby,40,GBR,,2.0,False,Silver
+1908.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Dora Boothby,40,GBR,,5.0,True,
+1992.0,Summer,Badminton,"Doubles, Women (Olympic)",Julie Bradbury,41,GBR,Gillian Clark,5.0,True,
+1996.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Julie Bradbury,41,GBR,Simon Archer,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Women (Olympic)",Julie Bradbury,41,GBR,Joanne Wright,9.0,True,
+1992.0,Summer,Badminton,"Doubles, Women (Olympic)",Gillian Clark,42,GBR,Julie Bradbury,5.0,True,
+1908.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Mildred Coles,43,GBR,,5.0,True,
+1924.0,Summer,Tennis,"Doubles, Women (Olympic)",Evelyn Colyer,44,GBR,Dorothy Shepherd-Barron,3.0,False,Bronze
+1900.0,Summer,Tennis,"Singles, Women (Olympic)",Charlotte Cooper,45,GBR,,1.0,False,Gold
+1900.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Charlotte Cooper,45,GBR,Reggie Doherty,1.0,False,Gold
+1900.0,Summer,Tennis,"Doubles, Handicap, Mixed (Olympic (non-medal))",Charlotte Cooper,45,GBR,"Élie, Comte de Lastours",5.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Women (Olympic (non-medal))",Charlotte Cooper,45,GBR,,2.0,False,
+1908.0,Summer,Tennis,"Singles, Women (Olympic)",Charlotte Cooper,45,GBR,,,False,
+1924.0,Summer,Tennis,"Singles, Women (Olympic)",Phyllis Covell,46,GBR,,9.0,True,
+1924.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Phyllis Covell,46,GBR,Leslie Godfree,5.0,True,
+1924.0,Summer,Tennis,"Doubles, Women (Olympic)",Phyllis Covell,46,GBR,Kitty McKane,2.0,False,Silver
+1908.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Gladys Eastlake-Smith,47,GBR,,1.0,False,Gold
+1988.0,Summer,Tennis,"Singles, Women (Olympic)",Sara Gomer,48,GBR,,17.0,True,
+1988.0,Summer,Tennis,"Doubles, Women (Olympic)",Sara Gomer,48,GBR,Clare Wood,9.0,True,
+1992.0,Summer,Tennis,"Singles, Women (Olympic)",Sara Gomer,48,GBR,,33.0,True,
+1992.0,Summer,Table Tennis,"Singles, Women (Olympic)",Alison Gordon,49,GBR,,17.0,True,
+1992.0,Summer,Badminton,"Doubles, Women (Olympic)",Gillian Gowers,50,GBR,Sara Sankey,9.0,True,
+1908.0,Summer,Tennis,"Singles, Women (Olympic)",Alice Greene,51,GBR,,5.0,False,
+1908.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Alice Greene,51,GBR,,2.0,False,Silver
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Mixed (Olympic)",Edith Hannam,52,GBR,Charles Dixon,1.0,False,Gold
+1912.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Edith Hannam,52,GBR,,1.0,False,Gold
+1920.0,Summer,Tennis,"Singles, Women (Olympic)",Dorothy Holman,53,GBR,,2.0,False,Silver
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Dorothy Holman,53,GBR,Gordon Lowe,14.0,True,
+1920.0,Summer,Tennis,"Doubles, Women (Olympic)",Dorothy Holman,53,GBR,Geraldine Beamish,2.0,False,Silver
+1992.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Andrea Holt,54,GBR,Lisa Lomas,9.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Andrea Holt,54,GBR,Lisa Lomas,17.0,True,
+1992.0,Summer,Tennis,"Singles, Women (Olympic)",Monique Javer,55,GBR,,33.0,True,
+1996.0,Summer,Tennis,"Doubles, Women (Olympic)",Valda Lake,56,GBR,Clare Wood,5.0,True,
+1908.0,Summer,Tennis,"Singles, Women (Olympic)",Dorothy Lambert Chambers,57,GBR,,1.0,False,Gold
+1908.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Dorothy Lambert Chambers,57,GBR,,,False,
+1992.0,Summer,Table Tennis,"Singles, Women (Olympic)",Lisa Lomas,58,GBR,,33.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Lisa Lomas,58,GBR,Andrea Holt,9.0,True,
+1996.0,Summer,Table Tennis,"Singles, Women (Olympic)",Lisa Lomas,58,GBR,,33.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Lisa Lomas,58,GBR,Andrea Holt,17.0,True,
+1920.0,Summer,Tennis,"Singles, Women (Olympic)",Kitty McKane,59,GBR,,3.0,False,Bronze
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Kitty McKane,59,GBR,Max Woosnam,2.0,False,Silver
+1920.0,Summer,Tennis,"Doubles, Women (Olympic)",Kitty McKane,59,GBR,Winifred McNair,1.0,False,Gold
+1924.0,Summer,Tennis,"Singles, Women (Olympic)",Kitty McKane,59,GBR,,3.0,False,Bronze
+1924.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Kitty McKane,59,GBR,Brian Gilbert,4.0,False,
+1924.0,Summer,Tennis,"Doubles, Women (Olympic)",Kitty McKane,59,GBR,Phyllis Covell,2.0,False,Silver
+1920.0,Summer,Tennis,"Singles, Women (Olympic)",Winifred McNair,60,GBR,,9.0,True,
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Winifred McNair,60,GBR,Noel Turnbull,14.0,True,
+1920.0,Summer,Tennis,"Doubles, Women (Olympic)",Winifred McNair,60,GBR,Kitty McKane,1.0,False,Gold
+1996.0,Summer,Badminton,"Singles, Women (Olympic)",Kelly Morgan,61,GBR,,9.0,True,
+1996.0,Summer,Badminton,"Doubles, Women (Olympic)",Kelly Morgan,61,GBR,Jo Muggeridge,17.0,True,
+2000.0,Summer,Badminton,"Singles, Women (Olympic)",Kelly Morgan,61,GBR,,9.0,True,
+2004.0,Summer,Badminton,"Singles, Women (Olympic)",Kelly Morgan,61,GBR,,9.0,True,
+1908.0,Summer,Tennis,"Singles, Women (Olympic)",Agatha Morton,62,GBR,,4.0,False,
+1992.0,Summer,Badminton,"Singles, Women (Olympic)",Jo Muggeridge,63,GBR,,9.0,True,
+1996.0,Summer,Badminton,"Singles, Women (Olympic)",Jo Muggeridge,63,GBR,,33.0,True,
+1996.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Jo Muggeridge,63,GBR,Chris Hunt,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Women (Olympic)",Jo Muggeridge,63,GBR,Kelly Morgan,17.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Mixed (Olympic)",Mabel Parton,64,GBR,Theodore Mavrogordato,5.0,True,
+1912.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Mabel Parton,64,GBR,,3.0,False,Bronze
+1908.0,Summer,Tennis,"Singles, Covered Courts, Women (Olympic)",Violet Pinckney,65,GBR,,5.0,True,
+1992.0,Summer,Badminton,"Doubles, Women (Olympic)",Sara Sankey,66,GBR,Gillian Gowers,9.0,True,
+1924.0,Summer,Tennis,"Singles, Women (Olympic)",Phyllis Satterthwaite,67,GBR,,9.0,True,
+1924.0,Summer,Tennis,"Singles, Women (Olympic)",Dorothy Shepherd-Barron,68,GBR,,5.0,True,
+1924.0,Summer,Tennis,"Doubles, Women (Olympic)",Dorothy Shepherd-Barron,68,GBR,Evelyn Colyer,3.0,False,Bronze
+1992.0,Summer,Tennis,"Singles, Women (Olympic)",Sam Smith,69,GBR,,17.0,True,
+1992.0,Summer,Tennis,"Doubles, Women (Olympic)",Sam Smith,69,GBR,Clare Wood,17.0,True,
+1992.0,Summer,Badminton,"Singles, Women (Olympic)",Helen Troke,70,GBR,,17.0,True,
+1908.0,Summer,Tennis,"Singles, Women (Olympic)",Ruth Winch,71,GBR,,3.0,False,Bronze
+1988.0,Summer,Tennis,"Singles, Women (Olympic)",Clare Wood,72,GBR,,33.0,True,
+1988.0,Summer,Tennis,"Doubles, Women (Olympic)",Clare Wood,72,GBR,Sara Gomer,9.0,True,
+1992.0,Summer,Tennis,"Doubles, Women (Olympic)",Clare Wood,72,GBR,Sam Smith,17.0,True,
+1996.0,Summer,Tennis,"Singles, Women (Olympic)",Clare Wood,72,GBR,,33.0,True,
+1996.0,Summer,Tennis,"Doubles, Women (Olympic)",Clare Wood,72,GBR,Valda Lake,5.0,True,
+1996.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Joanne Wright,73,GBR,Nick Ponting,9.0,True,
+1996.0,Summer,Badminton,"Doubles, Women (Olympic)",Joanne Wright,73,GBR,Julie Bradbury,9.0,True,
+2000.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Joanne Goode,73,GBR,Simon Archer,3.0,False,Bronze
+2000.0,Summer,Badminton,"Doubles, Women (Olympic)",Joanne Goode,73,GBR,Donna Kellogg,5.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Sky Andrew,74,GBR,Desmond Douglas,9.0,True,
+1996.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Simon Archer,75,GBR,Julie Bradbury,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Men (Olympic)",Simon Archer,75,GBR,Chris Hunt,5.0,True,
+2000.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Simon Archer,75,GBR,Joanne Goode,3.0,False,Bronze
+2000.0,Summer,Badminton,"Doubles, Men (Olympic)",Simon Archer,75,GBR,Nathan Robertson,5.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Roper Barrett,76,GBR,,,False,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Roper Barrett,76,GBR,Arthur Wentworth Gore,,False,
+1908.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Roper Barrett,76,GBR,,,False,
+1908.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Roper Barrett,76,GBR,Arthur Wentworth Gore,1.0,False,Gold
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Mixed (Olympic)",Roper Barrett,76,GBR,Helen Aitchison,2.0,False,Silver
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Roper Barrett,76,GBR,,9.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Roper Barrett,76,GBR,Arthur Wentworth Gore,4.0,False,
+1988.0,Summer,Tennis,"Singles, Men (Olympic)",Jeremy Bates,77,GBR,,17.0,True,
+1988.0,Summer,Tennis,"Doubles, Men (Olympic)",Jeremy Bates,77,GBR,Andrew Castle,17.0,True,
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Alfred Beamish,78,GBR,,16.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Alfred Beamish,78,GBR,Charles Dixon,3.0,False,Bronze
+1920.0,Summer,Tennis,"Singles, Men (Olympic)",Alfred Beamish,78,GBR,,9.0,True,
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Alfred Beamish,78,GBR,Geraldine Beamish,8.0,True,
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Alfred Beamish,78,GBR,Gordon Lowe,17.0,True,
+1896.0,Summer,Tennis,"Singles, Men (Olympic)",John Pius Boland,79,GBR,,1.0,False,Gold
+1896.0,Summer,Tennis,"Doubles, Men (Olympic)",John Pius Boland,79,GBR,Fritz Traun,1.0,False,Gold
+1996.0,Summer,Tennis,"Doubles, Men (Olympic)",Neil Broad,80,GBR,Tim Henman,2.0,False,Silver
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",George Caridia,81,GBR,,5.0,True,
+1908.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",George Caridia,81,GBR,,2.0,False,Silver
+1908.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",George Caridia,81,GBR,George Simond,2.0,False,Silver
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",George Caridia,81,GBR,,5.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",George Caridia,81,GBR,Theodore Mavrogordato,7.0,True,
+1988.0,Summer,Tennis,"Singles, Men (Olympic)",Andrew Castle,82,GBR,,17.0,True,
+1988.0,Summer,Tennis,"Doubles, Men (Olympic)",Andrew Castle,82,GBR,Jeremy Bates,17.0,True,
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Andrew Castle,82,GBR,,33.0,True,
+1992.0,Summer,Tennis,"Doubles, Men (Olympic)",Andrew Castle,82,GBR,Chris Wilkinson,17.0,True,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Clement Cazalet,83,GBR,Charles Dixon,3.0,False,Bronze
+1996.0,Summer,Table Tennis,"Singles, Men (Olympic)",Xinhua Chen,84,GBR,,17.0,True,
+1988.0,Summer,Table Tennis,"Singles, Men (Olympic)",Alan Cooke,85,GBR,,17.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Alan Cooke,85,GBR,Carl Prean,13.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Alan Cooke,85,GBR,Carl Prean,9.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Walter Crawley,86,GBR,,9.0,True,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Walter Crawley,86,GBR,Kenneth Powell,4.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Charles Dixon,87,GBR,,5.0,True,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Charles Dixon,87,GBR,Clement Cazalet,3.0,False,Bronze
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Mixed (Olympic)",Charles Dixon,87,GBR,Edith Hannam,1.0,False,Gold
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Charles Dixon,87,GBR,,2.0,False,Silver
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Charles Dixon,87,GBR,Alfred Beamish,3.0,False,Bronze
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Laurie Doherty,88,GBR,,1.0,False,Gold
+1900.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Laurie Doherty,88,GBR,Marion Jones,3.0,True,Bronze
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Laurie Doherty,88,GBR,Reggie Doherty,1.0,False,Gold
+1900.0,Summer,Tennis,"Doubles, Handicap, Mixed (Olympic (non-medal))",Laurie Doherty,88,GBR,Marion Jones,3.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Laurie Doherty,88,GBR,,3.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Laurie Doherty,88,GBR,Arthur Norris,5.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Laurie Doherty,88,GBR,,,False,
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Reggie Doherty,89,GBR,,3.0,True,Bronze
+1900.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Reggie Doherty,89,GBR,Charlotte Cooper,1.0,False,Gold
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Reggie Doherty,89,GBR,Laurie Doherty,1.0,False,Gold
+1900.0,Summer,Tennis,"Doubles, Handicap, Mixed (Olympic (non-medal))",Reggie Doherty,89,GBR,Hedwig Rosenbaum,9.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Reggie Doherty,89,GBR,,2.0,False,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Reggie Doherty,89,GBR,André Prévost,5.0,True,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Reggie Doherty,89,GBR,George Hillyard,1.0,False,Gold
+1988.0,Summer,Table Tennis,"Singles, Men (Olympic)",Desmond Douglas,90,GBR,,9.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Desmond Douglas,90,GBR,Sky Andrew,9.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Wilberforce Eaves,91,GBR,,3.0,False,Bronze
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Wilberforce Eaves,91,GBR,George Ball-Greene,,False,
+1908.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Wilberforce Eaves,91,GBR,,4.0,False,
+1908.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Wilberforce Eaves,91,GBR,George Hillyard,5.0,False,
+1908.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Lionel Escombe,92,GBR,,7.0,False,
+1908.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Lionel Escombe,92,GBR,Josiah Ritchie,4.0,False,
+1996.0,Summer,Badminton,"Singles, Women (Olympic)",Anne Gibson,93,GBR,,33.0,True,
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Brian Gilbert,94,GBR,,9.0,True,
+1924.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Brian Gilbert,94,GBR,Kitty McKane,4.0,False,
+1924.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Leslie Godfree,95,GBR,Phyllis Covell,5.0,True,
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Leslie Godfree,95,GBR,Max Woosnam,29.0,True,
+1992.0,Summer,Badminton,"Doubles, Men (Olympic)",Andy Goode,96,GBR,Chris Hunt,9.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Arthur Wentworth Gore,97,GBR,,,False,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Arthur Wentworth Gore,97,GBR,Roper Barrett,,False,
+1908.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Arthur Wentworth Gore,97,GBR,,1.0,False,Gold
+1908.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Arthur Wentworth Gore,97,GBR,Roper Barrett,1.0,False,Gold
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Arthur Wentworth Gore,97,GBR,,9.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Arthur Wentworth Gore,97,GBR,Roper Barrett,4.0,False,
+1988.0,Summer,Badminton,"Singles, Men (Olympic (non-medal))",Darren Hall,98,GBR,,4.0,False,
+1992.0,Summer,Badminton,"Singles, Men (Olympic)",Darren Hall,98,GBR,,17.0,True,
+1996.0,Summer,Badminton,"Singles, Men (Olympic)",Darren Hall,98,GBR,,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Men (Olympic)",Darren Hall,98,GBR,Peter Knowles,17.0,True,
+1996.0,Summer,Tennis,"Singles, Men (Olympic)",Tim Henman,99,GBR,,17.0,True,
+1996.0,Summer,Tennis,"Doubles, Men (Olympic)",Tim Henman,99,GBR,Neil Broad,2.0,False,Silver
+2000.0,Summer,Tennis,"Singles, Men (Olympic)",Tim Henman,99,GBR,,33.0,True,
+2004.0,Summer,Tennis,"Singles, Men (Olympic)",Tim Henman,99,GBR,,33.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",George Hillyard,100,GBR,,,False,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",George Hillyard,100,GBR,Reggie Doherty,1.0,False,Gold
+1908.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",George Hillyard,100,GBR,Wilberforce Eaves,5.0,False,
+1992.0,Summer,Badminton,"Doubles, Men (Olympic)",Chris Hunt,101,GBR,Andy Goode,9.0,True,
+1996.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Chris Hunt,101,GBR,Jo Muggeridge,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Men (Olympic)",Chris Hunt,101,GBR,Simon Archer,5.0,True,
+2000.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Chris Hunt,101,GBR,Donna Kellogg,17.0,True,
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Algernon Kingscote,102,GBR,,9.0,True,
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Algernon Kingscote,102,GBR,Patrick Wheatley,29.0,True,
+1996.0,Summer,Badminton,"Singles, Men (Olympic)",Peter Knowles,103,GBR,,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Men (Olympic)",Peter Knowles,103,GBR,Darren Hall,17.0,True,
+2000.0,Summer,Badminton,"Singles, Men (Olympic)",Peter Knowles,103,GBR,,17.0,True,
+2000.0,Summer,Badminton,"Doubles, Men (Olympic)",Peter Knowles,103,GBR,Julian Robertson,9.0,True,
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Arthur Lowe,104,GBR,,5.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Arthur Lowe,104,GBR,Gordon Lowe,5.0,True,
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Gordon Lowe,105,GBR,,4.0,False,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Gordon Lowe,105,GBR,Arthur Lowe,5.0,True,
+1920.0,Summer,Tennis,"Singles, Men (Olympic)",Gordon Lowe,105,GBR,,5.0,True,
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Gordon Lowe,105,GBR,Dorothy Holman,14.0,True,
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Gordon Lowe,105,GBR,Alfred Beamish,17.0,True,
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Harold Mahony,106,GBR,,2.0,False,Silver
+1900.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Harold Mahony,106,GBR,Yvonne Prévost,2.0,False,Silver
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Harold Mahony,106,GBR,Arthur Norris,3.0,True,Bronze
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Harold Mahony,106,GBR,,3.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Harold Mahony,106,GBR,Charles Sands,5.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Mixed (Olympic)",Theodore Mavrogordato,107,GBR,Mabel Parton,5.0,True,
+1912.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Theodore Mavrogordato,107,GBR,,9.0,True,
+1912.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Theodore Mavrogordato,107,GBR,George Caridia,7.0,True,
+1992.0,Summer,Badminton,"Singles, Men (Olympic)",Anders Nielsen,108,GBR,,33.0,True,
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Arthur Norris,109,GBR,,3.0,True,Bronze
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Arthur Norris,109,GBR,Harold Mahony,3.0,True,Bronze
+1900.0,Summer,Tennis,"Doubles, Handicap, Mixed (Olympic (non-medal))",Arthur Norris,109,GBR,B. Hogg,9.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Arthur Norris,109,GBR,,9.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Arthur Norris,109,GBR,Laurie Doherty,5.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",James Parke,110,GBR,,9.0,True,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",James Parke,110,GBR,Josiah Ritchie,2.0,False,Silver
+1992.0,Summer,Badminton,"Doubles, Men (Olympic)",Nick Ponting,111,GBR,Dave Wright,9.0,True,
+1996.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Nick Ponting,111,GBR,Joanne Wright,9.0,True,
+1996.0,Summer,Badminton,"Doubles, Men (Olympic)",Nick Ponting,111,GBR,Julian Robertson,17.0,True,
+1988.0,Summer,Table Tennis,"Singles, Men (Olympic)",Carl Prean,112,GBR,,25.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Carl Prean,112,GBR,Alan Cooke,13.0,True,
+1992.0,Summer,Table Tennis,"Singles, Men (Olympic)",Carl Prean,112,GBR,,9.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Carl Prean,112,GBR,Alan Cooke,9.0,True,
+1996.0,Summer,Table Tennis,"Singles, Men (Olympic)",Carl Prean,112,GBR,,33.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Josiah Ritchie,113,GBR,,1.0,False,Gold
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Josiah Ritchie,113,GBR,James Parke,2.0,False,Silver
+1908.0,Summer,Tennis,"Singles, Covered Courts, Men (Olympic)",Josiah Ritchie,113,GBR,,3.0,False,Bronze
+1908.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",Josiah Ritchie,113,GBR,Lionel Escombe,4.0,False,
+1996.0,Summer,Badminton,"Singles, Men (Olympic)",Julian Robertson,114,GBR,,33.0,True,
+1996.0,Summer,Badminton,"Doubles, Men (Olympic)",Julian Robertson,114,GBR,Nick Ponting,17.0,True,
+2000.0,Summer,Badminton,"Doubles, Men (Olympic)",Julian Robertson,114,GBR,Peter Knowles,9.0,True,
+1996.0,Summer,Tennis,"Singles, Men (Olympic)",Greg Rusedski,115,GBR,,9.0,True,
+2000.0,Summer,Tennis,"Singles, Men (Olympic)",Greg Rusedski,115,GBR,,33.0,True,
+1908.0,Summer,Tennis,"Doubles, Covered Courts, Men (Olympic)",George Simond,116,GBR,George Caridia,2.0,False,Silver
+1992.0,Summer,Table Tennis,"Singles, Men (Olympic)",Matthew Syed,117,GBR,,17.0,True,
+2000.0,Summer,Table Tennis,"Singles, Men (Olympic)",Matthew Syed,117,GBR,,33.0,True,
+1920.0,Summer,Tennis,"Singles, Men (Olympic)",Noel Turnbull,118,GBR,,4.0,False,
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Noel Turnbull,118,GBR,Winifred McNair,14.0,True,
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Noel Turnbull,118,GBR,Max Woosnam,1.0,False,Gold
+1900.0,Summer,Tennis,"Singles, Men (Olympic)",Archibald Warden,119,FRA,,5.0,True,
+1900.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Archibald Warden,119,FRA,Hedwig Rosenbaum,3.0,True,Bronze
+1900.0,Summer,Tennis,"Doubles, Men (Olympic)",Archibald Warden,119,FRA,Charles Sands,5.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Mixed (Olympic (non-medal))",Archibald Warden,119,FRA,Mme. Gillou,9.0,True,
+1900.0,Summer,Tennis,"Singles, Handicap, Men (Olympic (non-medal))",Archibald Warden,119,FRA,,9.0,True,
+1900.0,Summer,Tennis,"Doubles, Handicap, Men (Olympic (non-medal))",Archibald Warden,119,FRA,Pierre Verdé-Delisle,2.0,False,
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Patrick Wheatley,120,GBR,,33.0,True,
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Patrick Wheatley,120,GBR,Algernon Kingscote,29.0,True,
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Chris Wilkinson,121,GBR,,33.0,True,
+1992.0,Summer,Tennis,"Doubles, Men (Olympic)",Chris Wilkinson,121,GBR,Andrew Castle,17.0,True,
+1920.0,Summer,Tennis,"Singles, Men (Olympic)",Max Woosnam,122,GBR,,17.0,True,
+1920.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Max Woosnam,122,GBR,Kitty McKane,2.0,False,Silver
+1920.0,Summer,Tennis,"Doubles, Men (Olympic)",Max Woosnam,122,GBR,Noel Turnbull,1.0,False,Gold
+1924.0,Summer,Tennis,"Singles, Men (Olympic)",Max Woosnam,122,GBR,,17.0,True,
+1924.0,Summer,Tennis,"Doubles, Men (Olympic)",Max Woosnam,122,GBR,Leslie Godfree,29.0,True,
+1992.0,Summer,Badminton,"Doubles, Men (Olympic)",Dave Wright,123,GBR,Nick Ponting,9.0,True,
+1984.0,Summer,Tennis,"Singles, Women (Olympic (non-medal))",Steffi Graf,124,FRG,,1.0,False,
+1988.0,Summer,Tennis,"Singles, Women (Olympic)",Steffi Graf,124,FRG,,1.0,False,Gold
+1988.0,Summer,Tennis,"Doubles, Women (Olympic)",Steffi Graf,124,FRG,Claudia Kohde-Kilsch,3.0,True,Bronze
+1992.0,Summer,Tennis,"Singles, Women (Olympic)",Steffi Graf,124,GER,,2.0,False,Silver
+1992.0,Summer,Tennis,"Doubles, Women (Olympic)",Steffi Graf,124,GER,Anke Huber,9.0,True,
+1988.0,Summer,Tennis,"Singles, Women (Olympic)",Sylvia Hanika,125,FRG,,9.0,True,
+1992.0,Summer,Tennis,"Singles, Women (Olympic)",Anke Huber,126,GER,,5.0,True,
+1992.0,Summer,Tennis,"Doubles, Women (Olympic)",Anke Huber,126,GER,Steffi Graf,9.0,True,
+1996.0,Summer,Tennis,"Singles, Women (Olympic)",Anke Huber,126,GER,,9.0,True,
+1988.0,Summer,Tennis,"Singles, Women (Olympic)",Claudia Kohde-Kilsch,127,FRG,,17.0,True,
+1988.0,Summer,Tennis,"Doubles, Women (Olympic)",Claudia Kohde-Kilsch,127,FRG,Steffi Graf,3.0,True,Bronze
+1912.0,Summer,Tennis,"Singles, Women (Olympic)",Dora Köring,128,GER,,2.0,False,Silver
+1912.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Dora Köring,128,GER,Heinrich Schomburgk,1.0,False,Gold
+1988.0,Summer,Table Tennis,"Singles, Women (Olympic)",Olga Nemes,129,FRG,,9.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Olga Nemes,129,FRG,Katja Nolten,9.0,True,
+1992.0,Summer,Table Tennis,"Singles, Women (Olympic)",Olga Nemes,129,GER,,17.0,True,
+1996.0,Summer,Table Tennis,"Singles, Women (Olympic)",Olga Nemes,129,GER,,17.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Olga Nemes,129,GER,Jie Schöpp,9.0,True,
+1988.0,Summer,Table Tennis,"Singles, Women (Olympic)",Katja Nolten,130,FRG,,25.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Katja Nolten,130,FRG,Olga Nemes,9.0,True,
+1992.0,Summer,Tennis,"Singles, Women (Olympic)",Barbara Rittner,131,GER,,9.0,True,
+1992.0,Summer,Table Tennis,"Singles, Women (Olympic)",Elke Schall,132,GER,,33.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Elke Schall,132,GER,Nicole Struse,9.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Elke Schall,132,GER,Nicole Struse,9.0,True,
+2000.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Elke Schall,132,GER,Nicole Struse,9.0,True,
+2004.0,Summer,Table Tennis,"Singles, Women (Olympic)",Elke Wosik,132,GER,,17.0,True,
+2004.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Elke Wosik,132,GER,Nicole Struse,17.0,True,
+2008.0,Summer,Table Tennis,"Singles, Women (Olympic)",Elke Schall,132,GER,,33.0,True,
+2008.0,Summer,Table Tennis,"Team, Women (Olympic)",Elke Schall,132,GER,Germany,9.0,True,
+1992.0,Summer,Badminton,"Singles, Women (Olympic)",Katrin Schmidt,133,GER,,17.0,True,
+1992.0,Summer,Badminton,"Doubles, Women (Olympic)",Katrin Schmidt,133,GER,Kerstin Ubben,9.0,True,
+1996.0,Summer,Badminton,"Doubles, Women (Olympic)",Katrin Schmidt,133,GER,Kerstin Ubben,9.0,True,
+1996.0,Summer,Table Tennis,"Singles, Women (Olympic)",Jie Schöpp,134,GER,,17.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Jie Schöpp,134,GER,Olga Nemes,9.0,True,
+2000.0,Summer,Table Tennis,"Singles, Women (Olympic)",Jie Schöpp,134,GER,,17.0,True,
+2000.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Jie Schöpp,134,GER,Qianhong Gotsch,9.0,True,
+2004.0,Summer,Table Tennis,"Singles, Women (Olympic)",Jie Schöpp,134,GER,,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Karen Stechmann,135,GER,Michael Keck,17.0,True,
+2000.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Karen Stechmann,135,GER,Björn Siegemund,17.0,True,
+2000.0,Summer,Badminton,"Doubles, Women (Olympic)",Karen Stechmann,135,GER,Nicole Grether,9.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Nicole Struse,136,GER,Elke Schall,9.0,True,
+1996.0,Summer,Table Tennis,"Singles, Women (Olympic)",Nicole Struse,136,GER,,5.0,True,
+1996.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Nicole Struse,136,GER,Elke Schall,9.0,True,
+2000.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Nicole Struse,136,GER,Elke Schall,9.0,True,
+2004.0,Summer,Table Tennis,"Singles, Women (Olympic)",Nicole Struse,136,GER,,33.0,True,
+2004.0,Summer,Table Tennis,"Doubles, Women (Olympic)",Nicole Struse,136,GER,Elke Wosik,17.0,True,
+1992.0,Summer,Badminton,"Singles, Women (Olympic)",Kerstin Ubben,137,GER,,33.0,True,
+1992.0,Summer,Badminton,"Doubles, Women (Olympic)",Kerstin Ubben,137,GER,Katrin Schmidt,9.0,True,
+1996.0,Summer,Badminton,"Doubles, Women (Olympic)",Kerstin Ubben,137,GER,Katrin Schmidt,9.0,True,
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Boris Becker,138,GER,,9.0,True,
+1992.0,Summer,Tennis,"Doubles, Men (Olympic)",Boris Becker,138,GER,Michael Stich,1.0,False,Gold
+1988.0,Summer,Table Tennis,"Singles, Men (Olympic)",Georg Böhm,139,FRG,,17.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Georg Böhm,139,FRG,Jürgen Rebel,21.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Steffen Fetzner,140,FRG,Jörg Roßkopf,9.0,True,
+1992.0,Summer,Table Tennis,"Singles, Men (Olympic)",Steffen Fetzner,140,GER,,9.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Steffen Fetzner,140,GER,Jörg Roßkopf,2.0,False,Silver
+1996.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Steffen Fetzner,140,GER,Jörg Roßkopf,4.0,False,
+1996.0,Summer,Table Tennis,"Singles, Men (Olympic)",Peter Franz,141,GER,,17.0,True,
+2000.0,Summer,Table Tennis,"Singles, Men (Olympic)",Peter Franz,141,GER,,17.0,True,
+1992.0,Summer,Badminton,"Doubles, Men (Olympic)",Stefan Frey,142,GER,Stephan Kuhl,17.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Otto Froitzheim,143,GER,,2.0,False,Silver
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Otto Froitzheim,143,GER,Heinrich Schomburgk,7.0,True,
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Otto Froitzheim,143,GER,,,False,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Otto Froitzheim,143,GER,Oskar Kreuzer,,False,
+1996.0,Summer,Tennis,"Singles, Men (Olympic)",Marc-Kevin Goellner,144,GER,,33.0,True,
+1996.0,Summer,Tennis,"Doubles, Men (Olympic)",Marc-Kevin Goellner,144,GER,David Prinosil,3.0,False,Bronze
+1904.0,Summer,Tennis,"Singles, Men (Olympic)",Hugo Hardy,145,GER,,9.0,True,
+1904.0,Summer,Tennis,"Singles, Men (Olympic (non-medal))",Hugo Hardy,145,GER,,9.0,True,
+1904.0,Summer,Tennis,"Doubles, Men (Olympic)",Hugo Hardy,145,GER,Paul Gleeson,9.0,True,
+1904.0,Summer,Tennis,"Doubles, Men (Olympic (non-medal))",Hugo Hardy,145,GER,Paul Gleeson,5.0,True,
+1996.0,Summer,Badminton,"Singles, Men (Olympic)",Michael Helber,146,GER,,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Men (Olympic)",Michael Helber,146,GER,Michael Keck,9.0,True,
+2000.0,Summer,Badminton,"Doubles, Men (Olympic)",Michael Helber,146,GER,Björn Siegemund,17.0,True,
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Luis Maria Heyden,147,GER,,5.0,True,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Luis Maria Heyden,147,GER,Robert Spies,5.0,True,
+1988.0,Summer,Tennis,"Singles, Men (Olympic)",Eric Jelen,148,FRG,,33.0,True,
+1988.0,Summer,Tennis,"Doubles, Men (Olympic)",Eric Jelen,148,FRG,Carl-Uwe Steeb,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Michael Keck,149,GER,Karen Stechmann,17.0,True,
+1996.0,Summer,Badminton,"Doubles, Men (Olympic)",Michael Keck,149,GER,Michael Helber,9.0,True,
+2000.0,Summer,Badminton,"Doubles, Mixed (Olympic)",Michael Keck,149,GER,Nicol Pitro,9.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Oskar Kreuzer,150,GER,,16.0,True,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Oskar Kreuzer,150,GER,Friedrich-Wilhelm Rahe,11.0,True,
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Oskar Kreuzer,150,GER,,3.0,False,Bronze
+1912.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Oskar Kreuzer,150,GER,Mieken Rieck,,False,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Oskar Kreuzer,150,GER,Otto Froitzheim,,False,
+1992.0,Summer,Badminton,"Singles, Men (Olympic)",Stephan Kuhl,151,GER,,33.0,True,
+1992.0,Summer,Badminton,"Doubles, Men (Olympic)",Stephan Kuhl,151,GER,Stefan Frey,17.0,True,
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Paul Lindpaintner,152,GER,,48.0,True,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Paul Lindpaintner,152,GER,Adolf Hammacher,,False,
+1996.0,Summer,Badminton,"Singles, Men (Olympic)",Oliver Pongratz,153,GER,,33.0,True,
+1996.0,Summer,Tennis,"Singles, Men (Olympic)",David Prinosil,154,GER,,33.0,True,
+1996.0,Summer,Tennis,"Doubles, Men (Olympic)",David Prinosil,154,GER,Marc-Kevin Goellner,3.0,False,Bronze
+2000.0,Summer,Tennis,"Singles, Men (Olympic)",David Prinosil,154,GER,,33.0,True,
+2000.0,Summer,Tennis,"Doubles, Men (Olympic)",David Prinosil,154,GER,Tommy Haas,5.0,True,
+1908.0,Summer,Hockey,"Hockey, Men (Olympic)",Friedrich-Wilhelm Rahe,155,GER,Germany,5.0,False,
+1908.0,Summer,Hockey,Tennis,Friedrich-Wilhelm Rahe,155,GER,GER,,True,
+1908.0,Summer,Hockey,"Singles, Men (Olympic)",Friedrich-Wilhelm Rahe,155,GER,,26.0,True,
+1908.0,Summer,Hockey,"Doubles, Men (Olympic)",Friedrich-Wilhelm Rahe,155,GER,Oskar Kreuzer,11.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jürgen Rebel,156,FRG,Georg Böhm,21.0,True,
+1988.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jörg Roßkopf,157,FRG,,17.0,True,
+1988.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jörg Roßkopf,157,FRG,Steffen Fetzner,9.0,True,
+1992.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jörg Roßkopf,157,GER,,5.0,True,
+1992.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jörg Roßkopf,157,GER,Steffen Fetzner,2.0,False,Silver
+1996.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jörg Roßkopf,157,GER,,3.0,False,Bronze
+1996.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jörg Roßkopf,157,GER,Steffen Fetzner,4.0,False,
+2000.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jörg Roßkopf,157,GER,,5.0,True,
+2000.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jörg Roßkopf,157,GER,Timo Boll,17.0,True,
+2004.0,Summer,Table Tennis,"Singles, Men (Olympic)",Jörg Roßkopf,157,GER,,17.0,True,
+2004.0,Summer,Table Tennis,"Doubles, Men (Olympic)",Jörg Roßkopf,157,GER,Lars Hielscher,17.0,True,
+1908.0,Summer,Tennis,"Singles, Men (Olympic)",Heinrich Schomburgk,158,GER,,16.0,True,
+1908.0,Summer,Tennis,"Doubles, Men (Olympic)",Heinrich Schomburgk,158,GER,Otto Froitzheim,7.0,True,
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Heinrich Schomburgk,158,GER,,9.0,True,
+1912.0,Summer,Tennis,"Doubles, Mixed (Olympic)",Heinrich Schomburgk,158,GER,Dora Köring,1.0,False,Gold
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Heinrich Schomburgk,158,GER,Otto von Müller,9.0,True,
+1912.0,Summer,Tennis,"Singles, Men (Olympic)",Robert Spies,159,GER,,17.0,True,
+1912.0,Summer,Tennis,"Doubles, Men (Olympic)",Robert Spies,159,GER,Luis Maria Heyden,5.0,True,
+1988.0,Summer,Tennis,"Singles, Men (Olympic)",Carl-Uwe Steeb,160,FRG,,5.0,True,
+1988.0,Summer,Tennis,"Doubles, Men (Olympic)",Carl-Uwe Steeb,160,FRG,Eric Jelen,17.0,True,
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Carl-Uwe Steeb,160,GER,,9.0,True,
+1992.0,Summer,Tennis,"Singles, Men (Olympic)",Michael Stich,161,GER,,17.0,True,
+1992.0,Summer,Tennis,"Doubles, Men (Olympic)",Michael Stich,161,GER,Boris Becker,1.0,False,Gold
+1896.0,Summer,Athletics,"100 metres, Men (Olympic)",Fritz Traun,162,GER,,3.0,False,
+1896.0,Summer,Athletics,"400 metres, Men (Olympic)",Fritz Traun,162,GER,,,False,
+1896.0,Summer,Athletics,"800 metres, Men (Olympic)",Fritz Traun,162,GER,,3.0,False,
+1896.0,Summer,Athletics,"110 metres Hurdles, Men (Olympic)",Fritz Traun,162,GER,,,False
