@@ -16,7 +16,6 @@ ML_notes
 ___
 
 4. Working with Files and Data
-File I/O: Learn to read and write to files in different formats (text, CSV, JSON).
 Regular Expressions: Master regular expressions for pattern matching and text processing.
 
 5. Advanced Python Features
