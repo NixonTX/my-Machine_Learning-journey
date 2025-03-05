@@ -1,0 +1,2 @@
+ANN is highly volatile and serves best in financial time series forecasting.
+This network is dependent on hardware.
